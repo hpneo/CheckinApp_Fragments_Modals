@@ -1,2 +1,0 @@
-CheckinApp_Fragments_Modals.MainActivity;checkinapp_fragments_modals.MainActivity
-CheckinApp_Fragments_Modals.InfoMovieDialogFragment;checkinapp_fragments_modals.InfoMovieDialogFragment
