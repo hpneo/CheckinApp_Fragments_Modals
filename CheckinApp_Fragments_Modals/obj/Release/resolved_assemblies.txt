@@ -1,0 +1,9 @@
+/Users/hpneo/Projects/CheckinApp_Fragments_Modals/CheckinApp_Fragments_Modals/bin/Release/CheckinApp_Fragments_Modals.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Xml.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v3.1/Mono.Android.dll
+/Users/hpneo/Projects/CheckinApp_Fragments_Modals/Components/urlimageviewhelper-1.0.4/lib/android/UrlImageViewHelper.dll
+/Users/hpneo/Projects/CheckinApp_Fragments_Modals/Components/json.net-4.5.11/lib/android/Newtonsoft.Json.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Core.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/mscorlib.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Runtime.Serialization.dll
