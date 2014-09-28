@@ -3,4 +3,5 @@
 	<uses-sdk />
 	<application android:label="CheckinApp_Fragments_Modals">
 	</application>
+  <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
